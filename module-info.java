@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Codsoft_Project_1 {
+module student_grade_calculator {
 }
